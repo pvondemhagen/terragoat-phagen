@@ -29,4 +29,6 @@ resource "aws_instance" "web" {
     git_repo             = "terragoat"
     yor_trace            = "1ba9208e-8a3e-4143-8fea-1aa7d4fa67fb"
   }
+  ebs_optimized = true
+  monitoring = true
 }
