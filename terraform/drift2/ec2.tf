@@ -25,7 +25,7 @@ resource "aws_instance" "web" {
     git_last_modified_at = "2022-08-19 05:53:43"
     git_last_modified_by = "93744932+try-panwiac@users.noreply.github.com"
     git_modifiers        = "93744932+try-panwiac"
-    git_org              = "try-panwiac"
+    git_org              = "pvondemhagen"
     git_repo             = "terragoat"
     yor_trace            = "1ba9208e-8a3e-4143-8fea-1aa7d4fa67fb"
   }

@@ -34,7 +34,7 @@ resource "aws_ecs_task_definition" "service" {
     git_last_modified_at = "2022-10-02 15:14:16"
     git_last_modified_by = "93744932+try-panwiac@users.noreply.github.com"
     git_modifiers        = "93744932+try-panwiac"
-    git_org              = "try-panwiac"
+    git_org              = "pvondemhagen"
     git_repo             = "terragoat"
     yor_trace            = "d2f8ae8f-3419-414c-84da-d72250e8dbe6"
   }
